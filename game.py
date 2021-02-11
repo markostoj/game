@@ -410,7 +410,7 @@ class Ship(Sprite):
 		# Load the ship image and get its rect.
 		# First you need to Get the rec and then you can set it to something
 		
-		image_url = "https://user-images.githubusercontent.com/35129591/107345562-d06a9d80-6b17-11eb-85bb-4e2680559a8a.jpg"
+		image_url = "https://user-images.githubusercontent.com/35129591/107622769-69cab880-6cac-11eb-9e9a-59e07f65027b.jpg"
 		
 		image_str = urlopen(image_url).read()
 		# create a file object (stream)
